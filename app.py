@@ -3,7 +3,7 @@ import openai
 import os
 import sys
 
-openai.api_key = "sk-proj-fFG8WGiq21ctCFhSSgtmT3BlbkFJkanwk8oILNTjckUejeGp"
+openai.api_key = ""
 
 
 class Dialoguer:
